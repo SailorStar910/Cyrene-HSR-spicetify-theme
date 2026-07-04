@@ -1,0 +1,12 @@
+{
+  "name": "Cyrene HSR",
+  "description": "Cyrene from Honkai Star Rail as a theme for Spicetify",
+  "preview": "Hsr3rdAnniversary/hsr3rd.jpg",
+  "readme": "README.md",
+  "usercss": "Hsr3rdAnniversary/user.css",
+  "schemes": "Hsr3rdAnniversary/color.ini",
+  "authors": [
+    { "name": "SailorStar910", "url": "https://github.com/SailorStar910" }
+  ],
+  "tags": ["honkai-star-rail", "anime"]
+}
